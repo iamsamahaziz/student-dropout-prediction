@@ -134,7 +134,7 @@ J(θ) = -1/m Σ [y·log(h(X)) + (1-y)·log(1-h(X))]
 ### Training Convergence
 The custom implementation shows smooth convergence of the cost function over 6,000 iterations, demonstrating successful optimization.
 
-![Cost Function Convergence](cost_convergence.png)
+
 
 > The identical performance validates our custom implementation correctly replicates scikit-learn's logistic regression behavior.
 
@@ -258,7 +258,7 @@ student-dropout-prediction/
 
 - 🎓 Licence Ingénierie Informatique Student
 - 💼 Passionate about Machine Learning & Data Science
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://linkedin.com/in/samah-az)
 - 💻 [GitHub](https://github.com/yourusername)
 
 ---
