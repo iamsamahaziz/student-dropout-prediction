@@ -216,8 +216,6 @@ student-dropout-prediction/
 ├── 📓 Logistic_Regression_Students_Dropout.ipynb   # Main notebook
 ├── 📊 data.csv                                      # Dataset
 ├── 📖 README.md                                     # This file
-├── 📋 requirements.txt                              # Dependencies
-└── 🖼️ cost_convergence.png                          # Training visualization
 ```
 
 ---
